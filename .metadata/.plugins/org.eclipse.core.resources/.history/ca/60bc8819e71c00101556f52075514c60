@@ -1,0 +1,6 @@
+package demo;
+omport org.aspectj.long.annotation.Aspect;
+@Aspect
+public class LoggingAspect {
+
+}

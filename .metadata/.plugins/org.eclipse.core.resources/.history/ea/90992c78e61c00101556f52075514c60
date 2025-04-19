@@ -1,0 +1,10 @@
+package demo;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class ShippingCart {
+public void checkOut() {
+	System.out.println("check out method calledc from shopping cart class");
+}
+}

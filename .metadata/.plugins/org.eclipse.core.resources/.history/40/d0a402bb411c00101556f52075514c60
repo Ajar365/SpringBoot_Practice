@@ -1,0 +1,6 @@
+package demo;
+
+@Configuration
+public class BeanConfig {
+
+}
